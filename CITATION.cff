@@ -1,0 +1,8 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: David
+    given-names: Flores Santa Cruz
+title: dflores1/SeasonalGenes: Seasonal Genes Reanalysis
+version: v1.01
+date-released: 2023-08-27
