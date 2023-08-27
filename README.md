@@ -9,7 +9,7 @@ The gene expression is measured with microarrays of different manufacturers. I h
 
 There are two conditions to this goal, though:
 - Since I don't currently hold any affiliation, the data should be completely open for anybody that wish to download it.
-- Ideally, the code should go trough all the steps without human intervention, including downloading the data. Still, I had to leave a few files with important data in this repository
+- Ideally, the code should go trough all the steps without human intervention, including downloading the data. Still, I had to leave a few files with important data in this repository.
 
 Since the paper is [open access](https://www.springernature.com/gp/open-research/about/the-fundamentals-of-open-access-and-open-research) I left a pdf copy of it alongside its supplementary information. You should give it a read (or two) to understand what is going on.
 
